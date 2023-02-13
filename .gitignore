@@ -1,0 +1,25 @@
+# Dependencies
+node_modules
+
+# Typescript
+dist
+tsconfig.tsbuildinfo
+
+# Npm
+.npmrc
+
+# Hardhat
+artifacts
+cache
+
+# Tenderly
+tenderly.yaml
+
+# Script files
+test*.ts
+
+# OpenZeppelin
+unknown-*
+
+# idea
+.idea
